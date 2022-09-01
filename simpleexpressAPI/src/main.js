@@ -7,5 +7,5 @@ app.listen(4000, () =>{
 })
 
 app.get("/", (received, sentBack) =>{
-        console.log(received)
+        sentBack.send("request received")
 })
