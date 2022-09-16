@@ -13,8 +13,11 @@ Each request is independent.
 ### TYPES OF API REQUEST
 
 GET -> Read/get data from server/db
+
 POST -> Create/Put new information/data on server/db
+
 PATCH -> Update information on server/db
+
 DELETE -> Remove data from server/db
 
 ### MIDDLEWARE
