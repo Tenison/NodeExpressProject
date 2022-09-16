@@ -38,4 +38,4 @@ middleware always run before any endpoint request is made on the server
 
 ##### very simple. I will update this document as and when 
 
-# IMAGES [01,02,03,04] Explain some points
+# IMAGES [01.png,02.png,03.png,04.png] Explain some points
