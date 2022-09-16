@@ -13,3 +13,7 @@ app.get("/", (received, sendBack) =>{
 app.get("/dontview", (received, sendBack) =>{
     sendBack.sendStatus(500)
 })
+
+app.get("/statusInfo", (received, sendBack) =>{
+    sendBack.sendStatus(500).send("hicd le  ")
+})
