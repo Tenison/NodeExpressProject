@@ -20,8 +20,6 @@ PATCH -> Update information on server/db
 
 DELETE -> Remove data from server/db
 
-01.png
-
 ### MIDDLEWARE
 
 middleware always run before any endpoint request is made on the server 
